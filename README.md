@@ -29,7 +29,7 @@ A proposta principal do projeto é garantir que a interface seja adaptável a di
 
 ## 🔗 Acesse o Projeto
 
-🔗 [Veja o projeto](https://gxudre.github.io/web_project_homeland/)
+🔗 [Veja o projeto](https://iannes26.github.io/web_project_homeland/)
 
 ---
 
