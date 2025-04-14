@@ -4,7 +4,7 @@
   margin-bottom: 7.3%;
 }
 
-.photo-grid_container {
+.photo-grid__container {
   display: grid;
   max-width: 1184px;
   grid-template-columns: repeat(4, 1fr);
@@ -12,12 +12,12 @@
   gap: 16px 16px;
 }
 
-.photo-grid_image {
+.photo-grid__image {
   width: 100%;
 }
 
 @media screen and (max-width: 1024px) {
-  .photo-grid_container {
+  .photo-grid__container {
     margin: auto;
     max-width: 720px;
     grid-template-columns: repeat(2, 1fr);
@@ -27,7 +27,7 @@
 }
 
 @media screen and (max-width: 544px) {
-  .photo-grid_container {
+  .photo-grid__container {
     max-width: 288px;
     grid-template-columns: 1fr;
     grid-template-rows: auto;
